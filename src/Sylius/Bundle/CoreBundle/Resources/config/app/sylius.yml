@@ -26,6 +26,8 @@ sylius_money:
 
 sylius_locale: ~
 
+sylius_loyalty: ~
+
 sylius_currency: ~
 
 sylius_contact: ~

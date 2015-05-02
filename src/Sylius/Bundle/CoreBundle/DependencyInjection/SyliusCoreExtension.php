@@ -36,6 +36,7 @@ class SyliusCoreExtension extends AbstractResourceExtension implements PrependEx
         'sylius_currency',
         'sylius_inventory',
         'sylius_locale',
+        'sylius_loyalty',
         'sylius_order',
         'sylius_payment',
         'sylius_payum',
